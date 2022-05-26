@@ -5,6 +5,23 @@ body
     color: black;
 }
 
+#cabecera
+{
+    background-color: #33a;
+    box-shadow: 8px 6px 20px 0 rgba(0,0,0,0.5);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    color: white;
+}
+
+#cabecera #tangline
+{
+ font-weight: normal;
+ font-size: 13px; 
+ padding-left: 1em;  
+}
+
 #container{
     width: 70%;
     padding: 1em;
